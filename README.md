@@ -10,3 +10,14 @@
 3. Проверьте, вы вставили токен бота, токен можно создать в боте BotFather (проверьте, что официальный бот должен быть @BotFather)
 4. Проверьте, вы вставили токен Groq
 5. Проверьте, установлены ли все библиотеки (напишите pip install pyTelegramBotAPI openai в терминале, терминал можно открыть в Terminal > New Terminal), установлен ли Python (рекомендуется версия 3.11)
+
+## Тип моего проекта:
+> тг бот на python
+
+## Библиотеки, которые я буду использовать
+- pyTelegramBotAPI
+- openai
+
+## Гайды-статьи, где есть полезная для меня информация
+[Документация по pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+[Документация нейросети Groq](https://console.groq.com/docs/overview)
